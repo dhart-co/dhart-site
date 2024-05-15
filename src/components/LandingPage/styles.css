@@ -23,3 +23,27 @@
     top: -70vh;
     right: -30%;
 }
+
+@media (max-width: 768px) {
+    .background-container {
+        position: relative;
+        height: 100%;
+        width: 100%;
+    }
+
+    .ball {
+        width: 300px;
+        height: 450px;
+        background-color: #c9ffcf34;
+    }
+
+    .ball1 {
+        top: 25vh;
+        left: -30%;
+    }
+
+    .ball2 {
+        top: -15vh;
+        right: -30%;
+    }
+}

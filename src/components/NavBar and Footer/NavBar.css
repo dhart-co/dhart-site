@@ -100,9 +100,6 @@
     color: rgb(0, 0, 0); 
 }
 
-
-
-
 .navbar-links-container {
     display: flex;
     justify-content: space-between;
@@ -116,4 +113,27 @@
     marker: none;
     text-decoration: none;
     color: white;
+}
+
+@media (max-width: 768px) {
+    .navbar-container {
+        padding: 10px 5%;
+        justify-content: center;
+    }
+
+    .navbar-container h1 {
+        display: none;
+    }
+
+    .navbar-logo-name-container h1 {
+        font-size: 1.2rem;
+    }
+
+    .navbar-routes-container a {
+        display: none;
+    }
+
+    .navbar-links-container {
+        display: none;
+    }
 }
