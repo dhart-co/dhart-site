@@ -1,5 +1,4 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import LandingPage from './pages/LandingPage';
 
 import NavBar from './components/NavBar and Footer/NavBar';
@@ -12,11 +11,7 @@ const App: React.FC = () => {
   return (
     <div>
       <NavBar />
-      <Router>
-        <Routes>
-          <Route path="/" element={<LandingPage />} />
-        </Routes>
-      </Router>
+      <LandingPage />
       <Footer />
     </div>
   );
