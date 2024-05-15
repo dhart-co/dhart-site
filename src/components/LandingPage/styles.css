@@ -1,0 +1,25 @@
+.background-container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.ball {
+    position: absolute;
+    width: 600px;
+    height: 900px;
+    background-color: #c9ffcf22;
+    transform: rotate(45deg);
+    filter: blur(90px);
+    z-index: -1;
+}
+
+.ball1 {
+    top: 10vh;
+    left: -30%;
+}
+
+.ball2 {
+    top: -70vh;
+    right: -30%;
+}
