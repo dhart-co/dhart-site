@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dhart-site/static/css/main.41d43ae1.css",
-    "main.js": "/dhart-site/static/js/main.df2ad2ed.js",
+    "main.js": "/dhart-site/static/js/main.836b90f8.js",
     "static/js/453.be12a2ec.chunk.js": "/dhart-site/static/js/453.be12a2ec.chunk.js",
     "static/media/logo-hero.png": "/dhart-site/static/media/logo-hero.08036261ec6f3bfb9295.png",
     "static/media/instagram-icon.svg": "/dhart-site/static/media/instagram-icon.0810b60127abcdfb07d28cdf70282b1f.svg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/dhart-site/static/media/logo.a6b95387ac7c07e61a087f2df6f47417.svg",
     "static/media/linkedin-icon.svg": "/dhart-site/static/media/linkedin-icon.e5b08f2ac6bda9f059e3741c1fc1f74b.svg",
     "main.41d43ae1.css.map": "/dhart-site/static/css/main.41d43ae1.css.map",
-    "main.df2ad2ed.js.map": "/dhart-site/static/js/main.df2ad2ed.js.map",
+    "main.836b90f8.js.map": "/dhart-site/static/js/main.836b90f8.js.map",
     "453.be12a2ec.chunk.js.map": "/dhart-site/static/js/453.be12a2ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41d43ae1.css",
-    "static/js/main.df2ad2ed.js"
+    "static/js/main.836b90f8.js"
   ]
 }
