@@ -152,4 +152,9 @@
         font-weight: 300;
         text-align: center;
     }
+
+    .soon-container:hover {
+        box-shadow: none;
+        background-color: rgb(31, 31, 31);
+    }
 }
