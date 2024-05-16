@@ -18,10 +18,10 @@ const Footer: React.FC = () => {
                     </a>
                 </div>
                 <div className="footer-socials">
-                    <a href="https://linkedin.com/company/dhart-co" target="_blank" rel="noreferrer">
+                    <a href="https://www.instagram.com/dhart.co" target="_blank" rel="noreferrer">
                         <img src={Instagram} alt="Instagram"/>
                     </a>
-                    <a href="https://www.linkedin.com/company/dhart.co/" target="_blank" rel="noreferrer">
+                    <a href="https://www.linkedin.com/company/dhart-co/" target="_blank" rel="noreferrer">
                         <img src={Linkedin} alt="Linkedin"/>
                     </a>
                 </div>
